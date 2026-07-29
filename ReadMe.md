@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working as C, Java developer.<br>🌱 Learning Android, .Net, DevOps, Data Analytics Development.<br>👯 I’m looking for making connection with corporates.<br>💬 Ask about C, Java, Artificial Intelligence, DevOps, Android  Development  <br>📫 Reach : prasadadsul81@gmail.com<br>👨‍💻 Portfolio : 
+🔭 Working as C# developer.<br>🌱 Learning Android, .Net, DevOps, Data Analytics Development.<br>👯 I’m looking for making connection with corporates.<br>💬 Ask about C, Java, Artificial Intelligence, DevOps, Android  Development  <br>📫 Reach : prasadadsul81@gmail.com<br>👨‍💻 Portfolio : 
 
 
 ## 🌐 Socials:
