@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👨‍💻 **.NET / Backend Software Engineer** with 2+ years of experience building backend applications and REST APIs.  
+👨‍💻 **.NET / Backend Software Engineer** with 3+ years of experience building backend applications and REST APIs.  
 🎓 Master's degree in Computer Science.  
 🚀 Experienced in C#, .NET, ASP.NET Core Web API, Entity Framework Core, and SQL Server.  
 🏗️ Interested in Clean Architecture, scalable backend systems, API development, and performance optimization.  
